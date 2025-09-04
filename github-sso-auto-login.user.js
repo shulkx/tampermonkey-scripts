@@ -4,7 +4,7 @@
 // @description  Automatically logs you into your SSO provider on GitHub.
 // @author       Marcus Shu
 // @match      https://github.com/*
-// @match      https://github.teradyne.com/*
+// @match      https://github.*.com/*
 // @icon         https://www.google.com/s2/favicons?domain=github.com
 // @grant        none
 // ==/UserScript==
