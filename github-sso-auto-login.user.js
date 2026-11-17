@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         GitHub SSO Auto Login
-// @version      1.0.0
+// @version      1.0.1
 // @description  Automatically logs you into your SSO provider on GitHub.
 // @author       Marcus Shu
 // @match      https://github.com/*
-// @match      https://github.*.com/*
+// @include      https://github.*.com/*
 // @icon         https://www.google.com/s2/favicons?domain=github.com
 // @grant        none
 // ==/UserScript==
